@@ -418,6 +418,20 @@ namespace GoogleMapsAPI.NET.API.Places.Enums
         /// </summary>
         [EnumMember(Value = "school")]
         School,
+
+        /// <summary>
+        /// Pharmacy
+        /// </summary>
+        [EnumMember(Value = "primary_school")]
+        PrimarySchool,
+
+        /// <summary>
+        /// Pharmacy
+        /// </summary>
+        [EnumMember(Value = "secondary_school")]
+        SecondarySchool,
+
+
         /// <summary>
         /// Shoe store
         /// </summary>
